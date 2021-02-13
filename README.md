@@ -1,6 +1,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/pranjal-joshi/pranjal-joshi/main/coder_boy.svg" width="256"></p>
-
+<p align="center">
 [![alt text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i-dont-want-to-still-i/) [![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin/in/pranjal-joshi-734066199/) [![alt text](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://pranjalnrobotics.blogspot.com/)
+
+<a href="https://www.instagram.com/i-dont-want-to-still-i/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin/in/pranjal-joshi-734066199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="http://pranjalnrobotics.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+</p>
 
 <h2> Namaste 🙏, I'm <a href='https://github.com/pranjal-joshi'>Pranjal</a> </h2>
 
@@ -21,5 +26,7 @@ Feel free to browse my repos, I hope you will find something really interesting!
 ---
 
 I prefer sharing my workstation specs, just in case if you're interested. Morover, I am a part-time gamer and I built my own rig is powered with these goodies! 😍
+
 ![alt text](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![alt text](https://img.shields.io/badge/AMD-Ryzen_3_1200-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
 Thanks for stopping by! 😃
