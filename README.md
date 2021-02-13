@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/pranjal-joshi/pranjal-joshi/main/coder_boy.svg =256x256)
+<p align="center"><img src="https://raw.githubusercontent.com/pranjal-joshi/pranjal-joshi/main/coder_boy.svg" width="256"></p>
 
 [![alt text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i-dont-want-to-still-i/) [![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin/in/pranjal-joshi-734066199/) [![alt text](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://pranjalnrobotics.blogspot.com/)
 
