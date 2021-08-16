@@ -1,6 +1,18 @@
 <p align="center"><img src="https://raw.githubusercontent.com/pranjal-joshi/pranjal-joshi/main/coder_boy.svg" width="256"></p>
 
-[![alt text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_dont_want_to_still_i/) [![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-joshi-734066199/) [![alt text](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://pranjalnrobotics.blogspot.com/)
+<p align="center">
+  <a href="https://www.instagram.com/i_dont_want_to_still_i/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/pranjal-joshi-734066199/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)">
+  </a>
+  <a href="http://pranjalnrobotics.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+  </a>
+</p>
+
+![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjal-joshi&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-joshi&layout=compact&theme=dark)
 
 <h2> Namaste 🙏, I'm <a href='https://github.com/pranjal-joshi'>Pranjal</a> </h2>
 
@@ -9,8 +21,11 @@ I am a self-taught developer and a DIY maker! I started my journey of programmin
 Feel free to browse my repos, I hope you will find something really interesting! 👍
 </p>
 
+![MADE-IN-INDIA](https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%20IN-INDIA-orange?style=for-the-badge)
+
 ---
 #### Recent Events
+* *500+ Downloads of the Stock Screening Software made for NSE - [**Screeni-py**](https://github.com/pranjal-joshi/Screeni-py)*
 * *Research Paper published in **[IEEE (10.1109/JSTARS.2020.3042868)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9298456)*** 👨‍🔬
 * *Started working as Deputy Engineer at [**BEL**](https://bel-india.in/)* 👨‍💻
 * *Graduated Engineering in ECE from [**MIT Pune**](http://www.mitpune.com/)* 👨‍🎓
