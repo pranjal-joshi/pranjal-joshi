@@ -25,7 +25,7 @@ Feel free to browse my repos, I hope you will find something really interesting!
 
 ---
 #### Recent Events
-* *750+ Downloads of the Stock Screening Software made for NSE - [**Screeni-py**](https://github.com/pranjal-joshi/Screeni-py)*
+* *1,000+ Downloads of the Stock Screening Software made for NSE - [**Screeni-py**](https://github.com/pranjal-joshi/Screeni-py)*
 * *Research Paper published in **[IEEE (10.1109/JSTARS.2020.3042868)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9298456)*** 👨‍🔬
 * *Started working as Deputy Engineer at [**BEL**](https://bel-india.in/)* 👨‍💻
 * *Graduated Engineering in ECE from [**MIT Pune**](http://www.mitpune.com/)* 👨‍🎓
