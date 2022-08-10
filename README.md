@@ -18,16 +18,23 @@ Feel free to browse my repos, I hope you will find something really interesting!
     </thead>
     <tbody>
       <tr>
-        <td rowspan=3>
+        <td rowspan=4>
           <a href="#">
             <img src="https://github-readme-stats.vercel.app/api?username=pranjal-joshi&show_icons=true&theme=dark">
           </a>
         </td>
-        <td rowspan=3>
+        <td rowspan=4>
           <a href="#">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-joshi&layout=compact&theme=dark">
           </a>
         </td>
+        <td>
+          <a href="https://medium.com/@joshi.pranjal5">
+            <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+          </a>
+        </td>
+      </tr>
+      <tr>
         <td>
           <a href="https://www.instagram.com/i_dont_want_to_still_i/">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
