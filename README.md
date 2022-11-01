@@ -61,7 +61,7 @@ Feel free to browse my repos, I hope you will find something really interesting!
 ---
 #### Recent Events
 * *Started working as a Data Scientist at [**CloudCover**](https://cldcvr.com/)* :technologist:	
-* ***2,000+** Downloads of the Stock Screening Software made for NSE - [**Screeni-py**](https://github.com/pranjal-joshi/Screeni-py)*
+* ***3,000+** Downloads of the Stock Screening Software made for NSE - [**Screeni-py**](https://github.com/pranjal-joshi/Screeni-py)*
 * *Specialization - Certified [**DeepLearning.AI TensorFlow Developer**](https://www.coursera.org/account/accomplishments/specialization/certificate/CM9GA2XXASTW) and [**TensorFlow: Advanced Techniques Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/WMWZMS5WHYLL)*
 * *Research Paper published in **[IEEE (10.1109/JSTARS.2020.3042868)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9298456)*** 👨‍🔬
 * *Started working as a Deputy Engineer at [**BEL**](https://bel-india.in/)* 👨‍💻
