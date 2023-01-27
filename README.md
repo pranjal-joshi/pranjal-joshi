@@ -60,7 +60,7 @@ Feel free to browse my repos, I hope you will find something really interesting!
 
 ---
 #### Recent Events
-* Certified [**Google Cloud Platform - Professional Machine Learning Engineer**](https://www.credential.net/4ac91844-a2f3-4eda-a123-f16e4b7037c0?key=5afeaf078c3429ca5f3453af0068e7827ae7f25dae0a922dec0a767cfb712819) :cloud:
+* *Certified [**Google Cloud Platform - Professional Machine Learning Engineer**](https://www.credential.net/4ac91844-a2f3-4eda-a123-f16e4b7037c0?key=5afeaf078c3429ca5f3453af0068e7827ae7f25dae0a922dec0a767cfb712819)* :cloud:
 * *Started working as a Data Scientist at [**CloudCover**](https://cldcvr.com/)* :technologist:	
 * ***4,000+** Downloads of the Stock Screening Software made for NSE - [**Screeni-py**](https://github.com/pranjal-joshi/Screeni-py)*
 * *Specialization - Certified [**DeepLearning.AI TensorFlow Developer**](https://www.coursera.org/account/accomplishments/specialization/certificate/CM9GA2XXASTW) and [**TensorFlow: Advanced Techniques Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/WMWZMS5WHYLL)*
