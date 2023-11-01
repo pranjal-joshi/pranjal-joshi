@@ -60,6 +60,7 @@ Feel free to browse my repos, I hope you will find something really interesting!
 
 ---
 #### Recent Events
+* *Certified [**AWS Certified Machine Learning – Specialty**](https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa)* :cloud:
 * *Certified [**Google Cloud Platform - Professional Machine Learning Engineer**](https://www.credential.net/4ac91844-a2f3-4eda-a123-f16e4b7037c0?key=5afeaf078c3429ca5f3453af0068e7827ae7f25dae0a922dec0a767cfb712819)* :cloud:
 * *Started working as a Data Scientist at [**CloudCover**](https://cldcvr.com/)* :technologist:	
 * ***5,000+** Downloads of the Stock Screening Software made for NSE - [**Screeni-py**](https://github.com/pranjal-joshi/Screeni-py)*
