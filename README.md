@@ -2,8 +2,7 @@
 <h2> Namaste 🙏, I'm <a href='https://github.com/pranjal-joshi'>Pranjal</a> </h2>
 
 <p align='justify'>
-I am a self-taught developer and a DIY maker! I started my journey of programming when I was 17. As a student of electronics, I started making my own DIY projects using open-source hardware/software. Eventully, My interest shifted from writting firmware for the chips to the software development. I am a tech-enthusiastic, thus I divirsified my skills by learning Firmware development in C and C++, Hacking IoT with Linux, Full-stack web development, Cross platform App development using Dart, ML and Image Processing in Python!
-Feel free to browse my repos, I hope you will find something really interesting! 👍
+I'm a self-taught developer and a hands-on creator! My programming journey began at the age of 17 while studying electronics. I delved into crafting my own do-it-yourself projects using open-source hardware and software. Over time, my focus shifted from writing firmware for chips to software development. Being a tech enthusiast, I broadened my skill set by mastering Firmware development in C and C++, exploring IoT hacking with Linux, diving into full-stack web development, engaging in cross-platform app development using Dart, and delving into ML and image processing in Python! Feel free to explore my repositories - I hope you discover something truly intriguing! 👍
 <br></br>
 <img align="right" src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%20IN-INDIA-orange?style=for-the-badge" href="!#">
 </p>
