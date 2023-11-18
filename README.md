@@ -58,6 +58,43 @@ I'm a self-taught developer and a hands-on creator! My programming journey began
 </table>
 
 ---
+#### Certifications
+<table align="center">
+    <thead>
+        <tr>
+          <th>Certifications</th>
+          <th>URL</th>
+          <th>Badges</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+            AWS Machine Learning Speciality
+        </td>
+        <td>
+            <a href="https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa">Verify</a>
+        </td>
+        <td>
+            <img src="https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="150">  
+        </td>
+      </tr>
+        <tr>
+        <td>
+            GCP Professional Machine Learning Engineer
+        </td>
+        <td>
+            <a href="https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa">Verify</a>
+        </td>
+        <td>
+            <img src="https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="150">  
+        </td>
+      </tr>
+    </tbody>
+</table>
+
+
+---
 #### Recent Events
 * *Certified [**AWS Certified Machine Learning – Specialty**](https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa)* :cloud:
 * *Certified [**Google Cloud Platform - Professional Machine Learning Engineer**](https://www.credential.net/4ac91844-a2f3-4eda-a123-f16e4b7037c0?key=5afeaf078c3429ca5f3453af0068e7827ae7f25dae0a922dec0a767cfb712819)* :cloud:
