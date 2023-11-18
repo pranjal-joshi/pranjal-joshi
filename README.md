@@ -73,7 +73,7 @@ I'm a self-taught developer and a hands-on creator! My programming journey began
             AWS Machine Learning Speciality
         </td>
         <td>
-            <a href="https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa">Verify</a>
+            <a href="https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa">https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa</a>
         </td>
         <td>
             <img src="https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="150">  
@@ -84,10 +84,10 @@ I'm a self-taught developer and a hands-on creator! My programming journey began
             GCP Professional Machine Learning Engineer
         </td>
         <td>
-            <a href="https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa">Verify</a>
+            <a href="https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa">https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa</a>
         </td>
         <td>
-            <img src="https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="150">  
+            <img src="https://lh4.googleusercontent.com/K0AicsQZjKx6UZCO2ESQJHy35js05RATGe-awMhanoDsds9p0w9Eq5EXjOKg68i7R3EMdF25sZdRJ8cQ-AhXbd8=w1280" width="150">  
         </td>
       </tr>
     </tbody>
