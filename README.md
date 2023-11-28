@@ -84,10 +84,10 @@ I'm a self-taught developer and a hands-on creator! My programming journey began
             GCP Professional Machine Learning Engineer
         </td>
         <td>
-            <a href="https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa">https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa</a>
+            <a href="https://www.credential.net/4ac91844-a2f3-4eda-a123-f16e4b7037c0?key=5afeaf078c3429ca5f3453af0068e7827ae7f25dae0a922dec0a767cfb712819">https://www.credential.net/4ac91844-a2f3-4eda-a123-f16e4b7037c0?key=5afeaf078c3429ca5f3453af0068e7827ae7f25dae0a922dec0a767cfb712819</a>
         </td>
         <td>
-            <img src="https://lh4.googleusercontent.com/K0AicsQZjKx6UZCO2ESQJHy35js05RATGe-awMhanoDsds9p0w9Eq5EXjOKg68i7R3EMdF25sZdRJ8cQ-AhXbd8=w1280" width="150">  
+            <img src="https://i.ibb.co/hLYpvf5/image-removebg-preview-1.png" width="150">  
         </td>
       </tr>
     </tbody>
