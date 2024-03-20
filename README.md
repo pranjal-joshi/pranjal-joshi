@@ -96,6 +96,7 @@ I'm a self-taught developer and a hands-on creator! My programming journey began
 
 ---
 #### Recent Events
+* *Started working as a Senior Software Engineer - Data Science at [**Energy Exemplar**](https://www.energyexemplar.com/)* ⚡
 * *Certified [**AWS Certified Machine Learning – Specialty**](https://www.credly.com/badges/bb3e77f0-fcf0-41ec-9f02-b918a3fa6ffa)* :cloud:
 * *Certified [**Google Cloud Platform - Professional Machine Learning Engineer**](https://www.credential.net/4ac91844-a2f3-4eda-a123-f16e4b7037c0?key=5afeaf078c3429ca5f3453af0068e7827ae7f25dae0a922dec0a767cfb712819)* :cloud:
 * *Started working as a Data Scientist at [**CloudCover**](https://cldcvr.com/)* :technologist:	
@@ -117,6 +118,6 @@ I'm a self-taught developer and a hands-on creator! My programming journey began
 
 I prefer sharing my workstation specs, just in case if you're interested. Morover, I am a part-time gamer and I built my own rig is powered with these goodies! 😍
 
-![alt text](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![alt text](https://img.shields.io/badge/AMD-Ryzen_3_1200-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![alt text](https://img.shields.io/badge/Apple-MacBook_Air_M1-D3D3D3?style=for-the-badge&logo=apple&logoColor=white)
+![alt text](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![alt text](https://img.shields.io/badge/AMD-Ryzen_3_1200-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![alt text](https://img.shields.io/badge/Lenovo-ThinkPad_T14-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)
 
 Thanks for stopping by! 😃
